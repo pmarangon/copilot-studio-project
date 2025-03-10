@@ -24,6 +24,8 @@ O objetivo deste projeto foi criar um Copiloto com fluxo de conversa personaliza
    - Personalizei mensagens de erro para garantir uma experiência mais amigável e clara para os usuários.
 5. **Testes e Ajustes**:
    - Realizei testes interativos no chat para validar o comportamento do Copiloto. Descobri que o processo é mais intuitivo e acessível do que imaginava.
+     ![Teste com o chat criado em branco](teste_copilo_embranco.jpg)
+
      
 
 #### Conclusão:
