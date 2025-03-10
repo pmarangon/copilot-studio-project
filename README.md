@@ -1,9 +1,6 @@
 # copilot-studio-project
 Desafio de projeto Bootcamp  Suzano - Python Developer
 
-Claro! Aqui está o texto no imperativo, com um tom mais direto e instrucional:
-
----
 
 ### Resumo do Desafio
 
